@@ -1,0 +1,1 @@
+alerta ('comando básicos Linux')
